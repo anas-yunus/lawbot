@@ -11,6 +11,10 @@ LawBOT is an intelligent chatbot designed to assist users with queries related t
 
 - **Streamlit UI:** The frontend interface is developed using `Streamlit`, providing an intuitive and user-friendly platform for engaging with LawBOT.
 
+## Demo
+
+![LawBOT Demo](demo.png)
+
 ## Getting Started
 
 To run LawBOT locally, follow these steps:
